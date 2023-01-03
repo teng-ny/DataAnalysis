@@ -19,7 +19,9 @@
 > 세미나
 - https://www.datarian.io/blog/data-analyst-career-pivot-resume
 - 강의 : https://www.inflearn.com/users/@datarian
-- <2022>
+<br>
+
+<2022>
 - 2월 : [면접으로 직행하는 데이터 분석가 이력서](https://www.datarian.io/blog/slide-webinar-feb)⭐
 - 3월 : [데이터 분석가는 어떤일을 하나요?](https://www.datarian.io/blog/slide-webinar-mar)
 - 4월 : [실무에서 바로 써먹는 데이터 분석 스킬](https://www.datarian.io/blog/slide-webinar-may)⭐
