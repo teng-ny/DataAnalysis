@@ -18,6 +18,7 @@
 
 > 세미나
 - https://www.datarian.io/blog/data-analyst-career-pivot-resume
+- 토스 직무인터뷰 : https://blog.toss.im/article/data-analyst-interview
 - 강의 : https://www.inflearn.com/users/@datarian
 <br>
 
