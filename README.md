@@ -14,3 +14,19 @@
 
 > 지표설계
 :
+<br>
+
+> 이력서작성
+- https://www.datarian.io/blog/data-analyst-career-pivot-resume
+- 1월 :
+- 2월 : 
+- 3월 : 
+- 4월 : 
+- 5월 : 
+- 6월 : 
+- 7월 :
+- 8월 :
+- 9월 :
+- 10월 :
+- 11월 :
+- 12월 : (사이드 프로젝트부터 퍼블릭 스피킹까지)[https://www.datarian.io/blog/slide-webinar-dec?utm_source=inflearn&utm_medium=inflearn&utm_campaign=referral&utm_content=datarian-dec]
