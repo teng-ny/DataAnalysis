@@ -37,6 +37,7 @@
  
 > SQL
 - 연습문제 : https://www.datarian.io/blog/sql-camp-level-test
+- Big Query 사용해보기
 <br>
 
 > 시각화
