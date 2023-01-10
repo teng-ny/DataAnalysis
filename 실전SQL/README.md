@@ -1,3 +1,3 @@
 |No |유형 |
 |:---:|:-------------------:|
-|1 |[데이터 분석을 위한 SQL 실전편](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-sql-%EC%8B%A4%EC%A0%84) |
+|1 |[주간 활성 유저 감소 원인 분석](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/%EC%A3%BC%EA%B0%84%20%ED%99%9C%EC%84%B1%20%EC%9C%A0%EC%A0%80%20%EA%B0%90%EC%86%8C%20%EC%9B%90%EC%9D%B8%20%EB%B6%84%EC%84%9D.md) |
