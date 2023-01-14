@@ -1,6 +1,6 @@
 # 🔍DataAnalysis
 데이터분석가 관련 공부
-ㅁ
+
 ##
 > A/B test 케이스를 통해 실험 설계부터 지표 설계, 분석
 - A/B Test 정의 : https://spoqa.github.io/2012/05/15/ab-testing-basic.html
