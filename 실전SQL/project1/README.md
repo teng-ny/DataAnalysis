@@ -3,6 +3,18 @@
 - 분석요약 : https://docs.google.com/spreadsheets/d/1Ju4e-RfsEl1awf7EyO0MpWQAtX_ZDhIBcz2Xm6rwJJM/edit?usp=sharing
 <br>
 
+<SQL을 통한 데이터 추출>
+|No |SQL작성 |추출 파일 |추가작성 |
+|:---:|:-------------------:|:-------------------:|:-------------------:|
+|1 |[WAU(Weekly Active User)](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/WAU.sql) |[WAU.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/WAU_weekly_active_user.csv) | |
+|2 |[활성 유저](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/active_user.sql) |[active_user.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/active_user.csv) | |
+|3 |[email 건수 집계](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_count.sql) |[email_count.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_count.csv) | |
+|4 |[email 클릭 집계](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_ctr.sql) |[email_ctr.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_ctr.csv) |[피벗테이블](https://docs.google.com/spreadsheets/d/1MNVUREBgL5kaQXaRzhQg4B-07wPhTzpalIgCv1S0Y7s/edit?usp=sharing) |
+<br>
+
+- [join 참고](https://xod22.tistory.com/149)
+<br>
+
 <새롭게 알게된 것>
 - engagement(참여) : engagement를 정의하는 범위는 회사마다 다름
 - DAU/WAU/MAU : Day/Weekly/Monthly active user
@@ -14,13 +26,4 @@
 - digest email
 <br>
 
-<SQL을 통한 데이터 추출>
-|No |SQL작성 |추출 파일 |추가작성 |
-|:---:|:-------------------:|:-------------------:|:-------------------:|
-|1 |[WAU(Weekly Active User)](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/WAU.sql) |[WAU.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/WAU_weekly_active_user.csv) | |
-|2 |[활성 유저](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/active_user.sql) |[active_user.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/active_user.csv) | |
-|3 |[email 건수 집계](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_count.sql) |[email_count.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_count.csv) | |
-|4 |[email 클릭 집계](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_ctr.sql) |[email_ctr.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project1/email_ctr.csv) |[피벗테이블](https://docs.google.com/spreadsheets/d/1MNVUREBgL5kaQXaRzhQg4B-07wPhTzpalIgCv1S0Y7s/edit?usp=sharing) |
-<br>
 
-- [join 참고](https://xod22.tistory.com/149)
