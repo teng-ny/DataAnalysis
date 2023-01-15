@@ -17,7 +17,7 @@
 
 <새롭게 알게된 것>
 - engagement(참여) : engagement를 정의하는 범위는 회사마다 다름
-- DAU/WAU/MAU : Day/Weekly/Monthly active user
+- DAU/WAU/MAU : Daily/Weekly/Monthly active user
 - 데이터를 보기전 원인파악을 위한 가설을 우선 작성
 - growth rate(증가율) : 파악하기 쉬운 지표
 - cohort users(코호트 유저) : 유저를 쪼개본다는 것으로 이 프로젝트에서는 가입 시기별로 유저를 쪼개봄
