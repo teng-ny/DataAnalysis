@@ -32,9 +32,9 @@
 분석적으로 사고하고 실제 비즈니스 문제에 적용하는 방법에 대해 배울 수 있어서 재밌게 읽었던 것 같다.
 <br><br>  
 
-<추가적 자료> ☐ or ☑    
-- ☑ 포스타입 팀 블로그: [기획자와 마케터를 위한 활성사용자 총정리](https://team.postype.com/post/9405656)
-- ☑ 당근마켓 팀 블로그: [파워 유저 커브 (스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
-- ☑ 데이터리안 블로그 : [퍼널 분석](https://datarian.io/blog/funnel-analysis)
-- ☑ 데이터리안 블로그 : [리텐션 개선 사례-리텐션이 웃다니](http://bit.ly/3keSUut)  
+<추가적 자료> ☐ or ☑
+* [x] 포스타입 팀 블로그: [기획자와 마케터를 위한 활성사용자 총정리](https://team.postype.com/post/9405656)
+* [x] 당근마켓 팀 블로그: [파워 유저 커브 (스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
+* [x] 데이터리안 블로그 : [퍼널 분석](https://datarian.io/blog/funnel-analysis)
+* [x] 데이터리안 블로그 : [리텐션 개선 사례-리텐션이 웃다니](http://bit.ly/3keSUut)  
 -> 범위에 따라 활성유저를 잘 설정해야 추후 분석 시에 의미있는 분석이 진행될 수 있음.
