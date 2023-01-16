@@ -17,6 +17,9 @@
 - full search(일반검색)
 - 로그가 남는 시점에 대해 정확히 파악하고 있어야 분석시 오해가 생기지 않음(사전조사 후 분석진행)
 - quantitatively(정량적) : 분석가는 문제를 정량적으로 수치화할 수 있어야함.
++ 네이버/구글/인스타그램/페이스북과 같은 플랫폼에서 검색경험이 만족스러웠는지  
++ 내가 검색기능을 얼마나 사용하는지  
++ 경험에 대한 만족을 어떻게하면 정량화할 수 있을지 생각해보기
 <br>  
 
 <후기>   
@@ -25,4 +28,5 @@
 <br><br>    
 
 <추가적 자료> ☐ or ☑    
-☐ <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
+* [x] <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
+* [ ] <린분석>
