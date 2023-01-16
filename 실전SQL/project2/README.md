@@ -10,16 +10,16 @@
 |2 |[]() |[]() | |
 |3 |[]() |[]() | |
 <br>
-<br>
+<br>  
 
-<새롭게 알게된 것>
-- 
-<br>
+<새롭게 알게된 것>  
+- ㄴㅇㄹ  
+<br>  
 
-<후기>  
+<후기>   
   
 검색엔진도 고객의 검색 목적에 맞게 뜯어서 분석을 할 수 있다는 것을 알게됨. 새로운 시각에서 바라볼 수 있게됨.
-<br><br>  
+<br><br>    
 
 <추가적 자료> ☐ or ☑    
-- <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
+☐ <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
