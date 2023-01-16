@@ -1,6 +1,6 @@
 ## 🔍 검색 기능 분석
 - MODE 원본 링크 : https://mode.com/sql-tutorial/understanding-search-functionality/
-- 분석요약 :   
+- 분석요약 : 자동완성검색(autocomplete)과 일반검색(full search)  
 <br>
 
 <SQL을 통한 데이터 추출>
