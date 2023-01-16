@@ -2,11 +2,12 @@
 데이터분석가 관련 공부   
 <br>
 
-### 📚 Mode에서 제공하는 SQL 분석 해석 및 query작성
+### 1️⃣ Mode에서 제공하는 SQL 분석 해석 및 query작성
 🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/
 <br>
 <br>
 
+📚study record
 |No |유형 |
 |:---:|:-------------------:|
 |project1 |[주간 활성 유저 감소 원인 분석](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%8B%A4%EC%A0%84SQL/project1) |
