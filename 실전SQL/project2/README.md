@@ -33,8 +33,7 @@
 <br><br>    
 
 <추가적 자료> ☐ or ☑    
-* [x] <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
-* [ ] <린분석>
+* [ ] <린 분석> 266 페이지의 '기능을 구현하기 전에 자신에게 물어봐야 할 7가지 질문(Seven Questions to Ask Yourself Before Building a Feature)'
 <br>  
 
 <SQL 키보드 단축키>
