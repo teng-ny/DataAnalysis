@@ -6,9 +6,9 @@
 <SQL을 통한 데이터 추출>
 |No |SQL작성 |추출 파일 |추가작성 |
 |:---:|:-------------------:|:-------------------:|:-------------------:|
-|1 |[세션 서브쿼리 이해](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/1_session_sub.sql) |[session_sub.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/1_session_sub.csv) |[세션 서브쿼리 추출](https://docs.google.com/spreadsheets/d/1slhUySs4rR9Z8wK6vQSQdPk4947LbCLfb52zIEFPtQc/edit?usp=sharing) |
+|1 |[세션 서브쿼리 이해](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/1_session_sub.sql) |[session_sub.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/1_session_sub.csv) | |
 |2 |[세션의 시작과 끝](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/2_session_where_case.sql) |[session_where_case.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/2_session_where_case.csv) | |
-|3 |[세션별 시간 min, max 추출](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/3_session_select.sql) |[session_select.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/3_session_select.csv) | |
+|3 |[세션별 시간 min, max 추출](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/3_session_select.sql) |[session_select.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project2/3_session_select.csv) |[피벗테이블](https://docs.google.com/spreadsheets/d/1slhUySs4rR9Z8wK6vQSQdPk4947LbCLfb52zIEFPtQc/edit?usp=sharing) |
 <br>
 <br>  
 
