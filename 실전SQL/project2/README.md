@@ -6,7 +6,7 @@
 <SQL을 통한 데이터 추출>
 |No |SQL작성 |추출 파일 |추가작성 |
 |:---:|:-------------------:|:-------------------:|:-------------------:|
-|1 |[세션 계산하기]() |[]() |[이해를 위한 자료](https://docs.google.com/spreadsheets/d/1slhUySs4rR9Z8wK6vQSQdPk4947LbCLfb52zIEFPtQc/edit?usp=sharing) |
+|1 |[세션 계산하기]() |[]() |[세션 서브쿼리 추출](https://docs.google.com/spreadsheets/d/1slhUySs4rR9Z8wK6vQSQdPk4947LbCLfb52zIEFPtQc/edit?usp=sharing) |
 |2 |[]() |[]() | |
 |3 |[]() |[]() | |
 <br>
