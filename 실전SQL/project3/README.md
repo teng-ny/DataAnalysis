@@ -24,3 +24,4 @@
 <추가적 자료> ☐ or ☑
 * [ ] Box and Whisker 기술 블로그(2015/05 자료): [A/B 테스팅이란](https://boxnwhis.kr/2015/01/29/a_b_testing.html)
 * [ ] slideshare(권정민-2019/05 자료) : [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
+* [ ] [A/B 테스트 윤리](https://www.washingtonpost.com/news/monkey-cage/wp/2014/07/03/on-the-ethics-of-facebook-experiments/)
