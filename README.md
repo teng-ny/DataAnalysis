@@ -54,6 +54,7 @@
 > SQL
 - 연습문제 : https://www.datarian.io/blog/sql-camp-level-test
 - Big Query 사용해보기
+- 무료강의 : https://youtube.com/playlist?list=PLnQ774XwcktxUSAi-uJYLNfFsPq-MwM88
 <br>
 
 > 시각화
