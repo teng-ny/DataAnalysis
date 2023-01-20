@@ -6,9 +6,8 @@
 <SQL을 통한 데이터 추출>
 |No |SQL작성 |추출 파일 |추가작성 |
 |:---:|:-------------------:|:-------------------:|:-------------------:|
-|1 |[]( ) | |
-|2 |[]( ) | |
-|3 |[]( ) | |
+|1 |[유저별 count 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project3/1_sub.sql) |[sub.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project3/1_sub.csv) | |
+|2 |[그룹별 count, average](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project3/2_count_avg.sql) |[count_avg.csv](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%8B%A4%EC%A0%84SQL/project3/2_count_avg.csv) | |
 <br>
 <br>
 
@@ -29,7 +28,7 @@
 
 <후기>  
   
-몰랐던
+A/B테스트에 대한 여러 관점에 대해 생각해볼 수 있었다.
 <br><br>  
 
 <추가적 자료> ☐ or ☑
