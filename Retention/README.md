@@ -1,3 +1,5 @@
+## 📚study record
+
 (1) [Classic Retention](https://velog.io/@datarian/retention1)  
 (2) [Rolling Retention](https://velog.io/@datarian/retention2)  
 (3) [Range Retention](https://velog.io/@datarian/retention3)  
