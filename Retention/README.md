@@ -1,4 +1,4 @@
-## 📚study record
+## 📚리텐션 study record
 
 (1) [Classic Retention](https://velog.io/@datarian/retention1)  
 (2) [Rolling Retention](https://velog.io/@datarian/retention2)  
