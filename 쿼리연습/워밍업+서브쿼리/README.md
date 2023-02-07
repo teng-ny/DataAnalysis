@@ -8,6 +8,10 @@
 그다음 중요한 것은 WHERE절 서브쿼리  
 
 #### (1) *WHERE절 서브쿼리*
-- 단일행 서브쿼리 (>, <, = 등의 비교연산자 사용)
-- 다중행 서브쿼리 (IN 사용)
-- 다중컬럼 서브쿼리 (중요도 낮음)
+- [단일행 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/where_%EB%8B%A8%EC%9D%BC%ED%96%89_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql) (>, <, = 등의 비교연산자 사용)
+- [다중행 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/where_%EB%8B%A8%EC%9D%BC%ED%96%89_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql) (IN 사용)
+- [다중컬럼 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/where_%EB%8B%A4%EC%A4%91%EC%BB%AC%EB%9F%BC_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql) (중요도 낮음)
+
+#### (2) *FROM절 서브쿼리*
+- [from절 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/from_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql)
+- [with문](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/with%EB%AC%B8%ED%99%9C%EC%9A%A9.sql) (from절 서브쿼리와 의미 비슷)
