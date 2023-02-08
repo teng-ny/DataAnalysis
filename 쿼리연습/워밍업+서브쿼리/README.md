@@ -20,7 +20,7 @@
 
 #### (3) *SELECT절 서브쿼리*
 - [select절 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/select_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql) (행by행으로 계산하며 필터링 조건으로 걸어줄 수 있음)
-<br>  
+
 
 ### *Test 문제*  
 (1) [서울북부지방법원 따릉이 정류소 풀이](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/%EC%84%9C%EC%9A%B8%EB%B6%81%EB%B6%80%EC%A7%80%EB%B0%A9%EB%B2%95%EC%9B%90%20%EB%94%B0%EB%A6%89%EC%9D%B4%20%EC%A0%95%EB%A5%98%EC%86%8C.sql)  
