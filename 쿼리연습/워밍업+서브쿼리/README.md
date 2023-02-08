@@ -22,5 +22,5 @@
 
 
 ### 읽을거리
-* [x] [서브쿼리 별칭을 정하는 방법](https://datarian.io/blog/good-sql-code)  
+* [x] [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://datarian.io/blog/good-sql-code)  
 -> 나의 기록 : https://xod22.tistory.com/168
