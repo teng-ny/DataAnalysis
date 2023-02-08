@@ -18,8 +18,8 @@
 - [with문](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/with%EB%AC%B8%ED%99%9C%EC%9A%A9.sql) (from절 서브쿼리와 의미 비슷) --새로운 테이블의 정의를 쿼리와 분리해서 쓸 수 있어서 많이 사용함  
 -> ~WITH문은 테이블을 만들어서 저장하는 문법은 아님. 쿼리를 실행할때에만 유효한 임시 결과물을 만들어서 별칭을 붙여줌!~  
 
-#### (2) *SELECT절 서브쿼리*
-
+#### (3) *SELECT절 서브쿼리*
+- [select절 서브쿼리](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/%EC%9B%8C%EB%B0%8D%EC%97%85%2B%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/select_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.sql) (행by행으로 계산하며 필터링 조건으로 걸어줄 수 있음)
 <br>
 
 ### 📚*읽을거리*
