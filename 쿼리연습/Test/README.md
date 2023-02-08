@@ -5,7 +5,7 @@ Test 1(풀이) : [solution](https://github.com/teng-ny/DataAnalysis/blob/main/%E
 <br>
 
 Test 2(문제) : [지역별 주문의 특징](https://solvesql.com/problems/characteristics-of-orders/)  
-Test 2(풀이) : [solution]()  
+Test 2(풀이) : [solution](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/Test/%EC%A7%80%EC%97%AD%EB%B3%84%20%EC%A3%BC%EB%AC%B8%EC%9D%98%20%ED%8A%B9%EC%A7%95.sql)  
 <br>
 
 Test 3(문제) : [버뮤다 삼각지대에 들어가버린 택배](https://solvesql.com/problems/shipment-in-bermuda/)  
