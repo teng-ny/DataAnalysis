@@ -20,7 +20,8 @@
 
 #### (2) *SELECT절 서브쿼리*
 
+<br>
 
-### 읽을거리
+### 📚*읽을거리*
 * [x] [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://datarian.io/blog/good-sql-code)  
 -> 나의 기록 : https://xod22.tistory.com/168
