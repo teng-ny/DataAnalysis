@@ -9,7 +9,7 @@ Test 2(풀이) : [solution](https://github.com/teng-ny/DataAnalysis/blob/main/%E
 <br>
 
 Test 3(문제) : [버뮤다 삼각지대에 들어가버린 택배](https://solvesql.com/problems/shipment-in-bermuda/)  
-Test 3(풀이) : [solution]()  
+Test 3(풀이) : [solution](https://github.com/teng-ny/DataAnalysis/blob/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5/Test/%EB%B2%84%EB%AE%A4%EB%8B%A4%20%EC%82%BC%EA%B0%81%EC%A7%80%EB%8C%80%EC%97%90%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%B2%84%EB%A6%B0%20%ED%83%9D%EB%B0%B0.sql)  
 <br>
 
 Test 4(문제) : [가구 판매의 비중이 높았던 날 찾기](https://solvesql.com/problems/day-of-furniture/)  
