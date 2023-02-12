@@ -1,6 +1,6 @@
 ## 🔍DataAnalysis
 데이터분석가 관련 공부    
-<br>
+<br>  
 
 ### 1️⃣ Mode에서 제공하는 SQL 분석 해석 및 query작성
 🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/  
