@@ -16,3 +16,9 @@
 - 11월 : [A/B테스트](https://www.datarian.io/blog/slide-webinar-nov)
 - 12월 : [사이드 프로젝트부터 퍼블릭 스피킹까지](https://www.datarian.io/blog/slide-webinar-dec?utm_source=inflearn&utm_medium=inflearn&utm_campaign=referral&utm_content=datarian-dec)
 <br>
+
+<2023>
+- 1월 : [데이터 분석가 되면 어떤 일을 하나요?](https://datarian.io/blog/slide-seminar-2023-jan)
+- 2월 : [데이터 분석가 어떻게 준비해야 할까?](https://datarian.io/blog/slide-seminar-2023-feb)⭐
+-> [참석 후기](https://xod22.tistory.com/171)
+- 3월 : [직장인 데이터 리터러시: 내 업무에 데이터 활용하기](https://datarian.io/seminar#a0011dbe03c94c769633920a6e702449)
