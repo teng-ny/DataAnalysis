@@ -5,7 +5,6 @@
 ### 1️⃣ Mode에서 제공하는 SQL 분석 해석 및 query작성
 🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/  
 <br>
-<br>
 
 📚study record
 |No |유형 |
