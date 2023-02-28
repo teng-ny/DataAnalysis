@@ -24,5 +24,15 @@ retention chart(리텐션 차트) : 사용자들이 얼마나 유지되고 있�
 - 리텐션 (5) [리텐션 차트, 리텐션 커브](https://velog.io/@datarian/retention-analysis)  
 
 +[리텐션이 웃다니](https://datarian.io/blog/munice-smile-retention?utm_source=openchat&utm_medium=social&utm_campaign=referral)
-
+<br>  
+<br>  
  
+## 📚Cohort study record  
+- 동질 집단별로 사용자를 나누어 분석하는 것  
+-> 리텐션 차트 : 코호트 분석을 리텐션 분석에 응용한 것  
+<br>
+
+> Reading
+
+(1) [코호트 분석 Cohort Analysis](https://velog.io/@datarian/cohort-analysis)  
+(2) [매출분석과 코호트분석](https://velog.io/@datarian/lecture-qna-webinar-apr)
