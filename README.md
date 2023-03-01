@@ -6,7 +6,7 @@
 🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/  
 <br>
 
-📚study record
+📚study record  
 |No |유형 |
 |:---:|:-------------------:|  
 |project1 |[주간 활성 유저 감소 원인 분석](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%8B%A4%EC%A0%84SQL/project1) |
