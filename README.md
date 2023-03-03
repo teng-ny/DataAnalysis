@@ -14,7 +14,7 @@
 |proejct3 |[A/B테스트 결과 검증](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%8B%A4%EC%A0%84SQL/project3) |
 <br>
 
-*클릭하시면 해당 페이지로 연결됩니다*
+*클릭하시면 해당 페이지로 연결됩니다*  
 
 ##
 > A/B test 케이스를 통해 실험 설계부터 지표 설계, 분석
