@@ -18,7 +18,9 @@
 <br>
 
 ### 2⃣ 해적지표, AARRR  
-*Retention 없는 Acquisition은 마케팅 예산 낭비*  
+- [데이터 분석 스터디(start. 23.02.16~)]()  
+
+*Retention 없는 Acquisition은 마케팅 예산 낭비*   
 |No |How |
 |:---:|:-------------------:|
 |1 |[Activation-퍼널분석](https://github.com/teng-ny/DataAnalysis/tree/main/Funnel) |
@@ -32,8 +34,18 @@
 |23.03.14 |직장인 데이터 리터러시: 내 업무에 데이터 활용하기 |[*클릭*]() |
 <br>
 
+### 4⃣ 데이터분석을 위한 SQL
+- [실전sql 쿼리 연습](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5)
+- [코딩테스트 연습]()
+<br>
 
-##
+###  5⃣ Reading
+- [독서 스터디(start. 23.02.26~)](https://github.com/teng-ny/Reading)
+<br>
+
+------------------------------------  
+추가 자료    
+### A/B 
 > A/B test 케이스를 통해 실험 설계부터 지표 설계, 분석
 - A/B Test 정의 : https://spoqa.github.io/2012/05/15/ab-testing-basic.html
 - Hash 함수를 사용한 AB Test Sampling : https://zzsza.github.io/data/2019/02/23/ab-test-sampling-with-hash-function/
