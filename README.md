@@ -16,7 +16,6 @@
 
 *클릭하시면 해당 페이지로 연결됩니다*  
 <br>
-<br>
 
 ### 2⃣ 해적지표, AARRR  
 *Retention 없는 Acquisition은 마케팅 예산 낭비*  
