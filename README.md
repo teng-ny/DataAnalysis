@@ -29,7 +29,7 @@
 |2 |[Retention-리텐션, 코호트별로 쪼개보기](https://github.com/teng-ny/DataAnalysis/tree/main/Retention) |
 <br>
 
-### 3⃣ 컨퍼런 참여
+### 3⃣ 컨퍼런스 참여
 |day |주제 |참 후기 |
 |:---:|:-------------------:|:-------------------:|
 |23.02.14 |데이터 분석 프로젝트 왜이렇게 어려울까? |[*클릭*](https://xod22.tistory.com/171) |
