@@ -27,7 +27,7 @@
 |:---:|:-------------------:|
 |1 |[Activation-퍼널분석](https://github.com/teng-ny/DataAnalysis/tree/main/Funnel) |
 |2 |[Retention-리텐션, 코호트별로 쪼개보기](https://github.com/teng-ny/DataAnalysis/tree/main/Retention) |
-<br>
+<br>  
 
 ### 3⃣ 컨퍼런스 참여
 |day |주제 |참여 후기 |
