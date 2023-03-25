@@ -1,4 +1,4 @@
-WITH pv AS (
+WITH pv AS ( 
   SELECT user_pseudo_id
        , ga_session_id
        , event_timestamp_kst AS pv_at
