@@ -21,9 +21,9 @@
 
 ### 2⃣ 해적지표, AARRR  
 - [데이터 분석 스터디(start. 23.02.16~)]()  
-
+  
 *Retention 없는 Acquisition은 마케팅 예산 낭비*   
-|No |How |
+|No |How |  
 |:---:|:-------------------:|
 |1 |[Activation-퍼널분석](https://github.com/teng-ny/DataAnalysis/tree/main/Funnel) |
 |2 |[Retention-리텐션, 코호트별로 쪼개보기](https://github.com/teng-ny/DataAnalysis/tree/main/Retention) |
