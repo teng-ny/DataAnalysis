@@ -4,9 +4,9 @@
 ✍ 2022. 데이터분석 직무 인턴  
 ✍ 2023. SQL 데이터분석 캠프 실전반 수료  
 <br>
-
-### 1️⃣ 서비스 분석 및 MySQL 쿼리 작성  
-🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/  
+ 
+### 1️⃣ 서비스 분석 및 MySQL 쿼리 작성   
+🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/   
 <br>
 
 |No |유형 |
