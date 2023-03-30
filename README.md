@@ -17,7 +17,7 @@
 |project4 |[서비스 이용 패턴분석](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%8B%A4%EC%A0%84SQL/project4) |  
 
 *클릭하시면 해당 페이지로 연결됩니다*  
-<br>
+<br>  
 
 ### 2⃣ 해적지표, AARRR  
 - [데이터 분석 스터디(start. 23.02.16~)]()  
