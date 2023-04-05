@@ -39,8 +39,8 @@
 
 ### 4⃣ 데이터분석을 위한 SQL
 - [실전sql 쿼리 연습](https://github.com/teng-ny/DataAnalysis/tree/main/%EC%BF%BC%EB%A6%AC%EC%97%B0%EC%8A%B5)
-- [코딩테스트 연습](https://github.com/teng-ny/CodingTest)
-<br>
+- [코딩테스트 연습](https://github.com/teng-ny/CodingTest) 
+<br> 
 
 ###  5⃣ Reading
 - [독서 스터디(start. 23.02.26~)](https://github.com/teng-ny/Reading)
