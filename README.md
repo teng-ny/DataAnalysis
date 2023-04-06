@@ -6,7 +6,7 @@
 <br>
  
 ### 1️⃣ 서비스 분석 및 MySQL 쿼리 작성   
-🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/   
+🔗링크 : https://mode.com/sql-tutorial/sql-business-analytics-training/    
 <br>
   
 |No |유형 |
