@@ -51,7 +51,7 @@
 ------------------------------------  
 추가 자료    
 ### A/B   
-> A/B test 케이스를 통해 실험 설계부터 지표 설계, 분석
+> A/B test 케이스를 통해 실험 설계부터 지표 설계, 분석  
 - A/B Test 정의 : https://spoqa.github.io/2012/05/15/ab-testing-basic.html
 - Hash 함수를 사용한 AB Test Sampling : https://zzsza.github.io/data/2019/02/23/ab-test-sampling-with-hash-function/
 <br>
